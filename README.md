@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dstars&psig=AOvVaw2hXfgDhDISeuFd3LVmDYSs&ust=1722795755319000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIimgce42YcDFQAAAAAdAAAAABAE)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 <h1 align="center">Hi 👋, I'm Vipanshu Vashisht</h1>
 <h3 align="center">Full Stack Web Developer skilled in front-end and back-end technologies, delivering scalable solutions with a focus on performance.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
