@@ -1,28 +1,113 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<!-- Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" style="width: 100%; height: auto;">
+</div>
+
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Vipanshu Vashisht</h1>
-<h3 align="center">Full Stack Web Developer skilled in front-end and back-end technologies, delivering scalable solutions with a focus on performance.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<h3 align="center">Full Stack Developer | Next.js • TypeScript • MERN Stack • Cloud Platforms</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipanshuvashisht&label=Profile%20views&color=0e75b6&style=flat" alt="vipanshuvashisht" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Applications;Full+Stack+Developer;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning **Express.js**
+<br>
 
-- 💬 Ask me about **MERN**
+<!-- Stats & Profile -->
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+  
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=vipanshuvashisht&label=Profile%20views&color=0e75b6&style=flat" alt="vipanshuvashisht" /> 
+  </p>
 
-- 📫 How to reach me **vipanshuvashisht@gmail.com**
+  - 💼 **Currently Working On:** Full Stack Applications with Next.js & TypeScript
+  - 🚀 **Skills:** Next.js, React.js, TypeScript, Node.js, MongoDB, Express, AWS.
+  - 📧 **Reach me at:** vipanshuvashisht@gmail.com
+  - 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/12XoyYtXkMA7dC3wq5mgMOBnmqcZm5Wkm/view?usp=drive_link)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vipanshu vashisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipanshu vashisht" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vipanshuvashisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vipanshuvashisht" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/vipanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vipanshu" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Connect with me -->
+<h2 align="center">🌐 Connect With Me</h2>
+<div align="center">
+  <a href="https://linkedin.com/in/vipanshu-vashisht-545763239" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipanshu vashisht" height="40" width="40" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipanshuvashisht&show_icons=true&locale=en&layout=compact" alt="vipanshuvashisht" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipanshuvashisht&show_icons=true&locale=en" alt="vipanshuvashisht" /></p>
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipanshuvashisht&" alt="vipanshuvashisht" /></p>
+<div align="center">
+  
+### **Frontend & Backend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Styling & Tools**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+<br>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  
+  <!-- Stats Cards -->
+  <a href="https://github.com/VipanshuVashisht">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VipanshuVashisht&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipanshuVashisht&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  </a>
+  
+  <!-- Streak Stats -->
+  <br><br>
+  <a href="https://github.com/VipanshuVashisht">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VipanshuVashisht&theme=radical&hide_border=true" />
+  </a>
+  
+</div>
+
+<br>
+
+<!-- Trophy -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VipanshuVashisht&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<h2 align="center">📈 Activity Graph</h2>
+<div align="center">
+  <a href="https://github.com/VipanshuVashisht">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VipanshuVashisht&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" width="100%">
+  </a>
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+  
+  ![Snake animation](https://github.com/VipanshuVashisht/VipanshuVashisht/blob/output/github-contribution-grid-snake.svg)
+  
+  <p>⭐️ From <a href="https://github.com/VipanshuVashisht">VipanshuVashisht</a></p>
+</div>
