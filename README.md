@@ -15,16 +15,13 @@
 
 <!-- Stats & Profile -->
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
   
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=vipanshuvashisht&label=Profile%20views&color=0e75b6&style=flat" alt="vipanshuvashisht" /> 
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=vipanshuvashisht&label=Profile%20views&color=0e75b6&style=flat" alt="vipanshuvashisht" /> 
 
-  - 💼 **Currently Working On:** Full Stack Applications with Next.js & TypeScript
-  - 🚀 **Skills:** Next.js, React.js, TypeScript, Node.js, MongoDB, Express, AWS.
-  - 📧 **Reach me at:** vipanshuvashisht@gmail.com
-  - 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/12XoyYtXkMA7dC3wq5mgMOBnmqcZm5Wkm/view?usp=drive_link)
+   💼 **Currently Working On:** Full Stack Applications with Next.js & TypeScript
+   🚀 **Skills:** Next.js, React.js, TypeScript, Node.js, MongoDB, Express, AWS.
+   📧 **Reach me at:** vipanshuvashisht@gmail.com
+   📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/12XoyYtXkMA7dC3wq5mgMOBnmqcZm5Wkm/view?usp=drive_link)
 </div>
 
 <br>
@@ -79,7 +76,7 @@
   <!-- Streak Stats -->
   <br><br>
   <a href="https://github.com/VipanshuVashisht">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VipanshuVashisht&theme=radical&hide_border=true" />
+    <img height="180" src="https://streak-stats.demolab.com/?user=VipanshuVashisht&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
   
 </div>
@@ -107,7 +104,7 @@
 <!-- Footer -->
 <div align="center">
   
-  ![Snake animation](https://github.com/VipanshuVashisht/VipanshuVashisht/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/VipanshuVashisht/VipanshuVashisht/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   <p>⭐️ From <a href="https://github.com/VipanshuVashisht">VipanshuVashisht</a></p>
 </div>
