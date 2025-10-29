@@ -14,14 +14,14 @@
 <br>
 
 <!-- Stats & Profile -->
-<div align="center">
+<div align="left">
   
   <img src="https://komarev.com/ghpvc/?username=vipanshuvashisht&label=Profile%20views&color=0e75b6&style=flat" alt="vipanshuvashisht" /> 
 
-   💼 **Currently Working On:** Full Stack Applications with Next.js & TypeScript
-   🚀 **Skills:** Next.js, React.js, TypeScript, Node.js, MongoDB, Express, AWS.
-   📧 **Reach me at:** vipanshuvashisht@gmail.com
-   📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/12XoyYtXkMA7dC3wq5mgMOBnmqcZm5Wkm/view?usp=drive_link)
+   - 💼 **Currently Working On:** Full Stack Applications with Next.js & TypeScript
+   - 🚀 **Skills:** Next.js, React.js, TypeScript, Node.js, MongoDB, Express, AWS.
+   - 📧 **Reach me at:** vipanshuvashisht@gmail.com
+   - 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/12XoyYtXkMA7dC3wq5mgMOBnmqcZm5Wkm/view?usp=drive_link)
 </div>
 
 <br>
@@ -72,13 +72,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VipanshuVashisht&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipanshuVashisht&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   </a>
-  
-  <!-- Streak Stats -->
-  <br><br>
-  <a href="https://github.com/VipanshuVashisht">
-    <img height="180" src="https://streak-stats.demolab.com/?user=VipanshuVashisht&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
 </div>
 
 <br>
@@ -103,8 +96,5 @@
 
 <!-- Footer -->
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/VipanshuVashisht/VipanshuVashisht/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
   <p>⭐️ From <a href="https://github.com/VipanshuVashisht">VipanshuVashisht</a></p>
 </div>
