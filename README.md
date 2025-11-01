@@ -21,7 +21,7 @@
    - 💼 **Currently Working On:** Full Stack Applications with Next.js & TypeScript
    - 🚀 **Skills:** Next.js, React.js, TypeScript, Node.js, MongoDB, Express, AWS.
    - 📧 **Reach me at:** vipanshuvashisht@gmail.com
-   - 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/12XoyYtXkMA7dC3wq5mgMOBnmqcZm5Wkm/view?usp=drive_link)
+   - 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1BzJXQxayzjHPr2Gb6tnvGZgJ6YdpznA-/view?usp=sharing)
 </div>
 
 <br>
